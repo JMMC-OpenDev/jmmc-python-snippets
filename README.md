@@ -9,5 +9,5 @@ Current code give availability for :
 - getStar service 
 
 Next features could be pushed online on request:
-- plots for Olbin publications metrics
+- plots for OLBIN publications metrics
 - get fit estimation of disk's diameter for a given OIFits wrapping LITpro remote service
