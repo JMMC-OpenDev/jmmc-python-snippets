@@ -7,7 +7,8 @@ This area just present some ideas, illustration on how to reach some JMMC servic
 
 Current code give availability for :
 - getStar service 
+- OLBIN publications metrics 
 
 Next features could be pushed online on request:
-- plots for OLBIN publications metrics
 - get fit estimation of disk's diameter for a given OIFits wrapping LITpro remote service
+- JMMC TAP services samples
