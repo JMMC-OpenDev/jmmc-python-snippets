@@ -8,7 +8,5 @@ This area just present some ideas, illustration on how to reach some JMMC servic
 Current code give availability for :
 - getStar service 
 - OLBIN publications metrics 
-- JMMC VO services - Work In Progress
-
-Next features could be pushed online on request:
-- get fit estimation of disk's diameter for a given OIFits wrapping LITpro remote service
+- JMMC VO services - How to curate OiDB with the JMMC catalogAPI
+- try basic systematic fit estimations of disk's diameters for a given set of OiDB collections (IPER + PMOIRED)
